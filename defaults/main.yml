@@ -1,0 +1,6 @@
+hosts_file_common:
+  - ip: ::1
+    aliases: localhost
+  - ip: 127.0.0.1
+    aliases: localhost
+hosts_file_specific: []
